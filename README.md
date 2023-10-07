@@ -1,4 +1,4 @@
-# ** Superstore-Dashboard-Using-Excel**
+# Superstore-Dashboard-Using-Excel
 
 **1 INTRODUCTION**
 
