@@ -40,7 +40,10 @@ The bar graph depict the shopping preferances of both gender. for instance, male
 
 ![Screenshot (515)](https://user-images.githubusercontent.com/129647680/236120340-cab95a5c-1d1a-4987-8f76-8cf2252bae11.png)
 
-Most gross margin business in supermarket is Food and beverages market.
+**4 Summary of limitations / challenges faced ** 
 
+The supermarket industry is a dynamic and complex sector, with various product categories contributing to its overall revenue and profitability. One of the key areas that significantly impacts the gross margin in supermarkets is the food and beverages market.
+
+Food and beverages encompass a wide array of products, ranging from fresh produce, dairy products, canned goods, snacks, beverages, frozen foods, bakery items, and more. These items are essential for daily consumption, making the food and beverages market a core component of a supermarket's offerings.
 
 
