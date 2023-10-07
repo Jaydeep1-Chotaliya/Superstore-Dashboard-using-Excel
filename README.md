@@ -40,7 +40,7 @@ The bar graph depict the shopping preferances of both gender. for instance, male
 
 ![Screenshot (515)](https://user-images.githubusercontent.com/129647680/236120340-cab95a5c-1d1a-4987-8f76-8cf2252bae11.png)
 
-**4 Summary of limitations / challenges faced ** 
+**4 Summary of limitations / challenges faced** 
 
 * The supermarket industry, characterized by its dynamic complexity, sees diverse product categories influencing revenue and profitability, with the food and beverages market notably shaping gross margins.
 
