@@ -1,29 +1,28 @@
-# Superstore-Dashboard-Using-Excel
+# ** Superstore-Dashboard-Using-Excel**
 
 **1 INTRODUCTION**
 
-The Excel file is containing data of the growth of supermarkets in most populated cities are increasing and market competitions are also high. The dataset is one of the historical sales of supermarket company which has recorded in 3 different branches for 3 months data. Predictive data analytics methods are easy to apply with this dataset.
+The Excel file encompasses vital data illustrating the growth of supermarkets in some of the most densely populated cities, namely Yangon, Naypyitaw, and Mandalay. The presence of high market competition underscores the significance of this dataset. It delves into the historical sales of a reputable supermarket company, meticulously chronicling its operations across three distinct branches over a span of three months, namely January, February, and March. The availability of such detailed and organized data facilitates the seamless application of predictive data analytics methods. Armed with this dataset, implementing predictive analytics becomes a straightforward task, offering the potential for valuable foresight into market trends and a competitive edge within the bustling supermarket industry of these cities.
 
 **2 SOLUTION STRATERGY** 
 
 Problem solution follows the following steps:
 
 **Step 1 Objective Of Project :**
-Perform exploratory data analysis.
 
-Analyze sales and revenue trends over the years across various demographics like categories, locations etc...
-
-Build visualization that would uncover any significant trends in data and Identify factors that could influence the sales and increase revenue numbers.
-Based on the visualizations and analysis provide top 3 recommendations that would enable business growth over the upcoming years and why.
+The objective of the project in data analysis using Excel is to leverage the capabilities of this powerful tool to extract valuable insights and trends from a dataset related to the growth and operations of supermarkets. By utilizing Excel's features and functions, we aim to analyze the historical sales data recorded across three different branches over a three-month period (January, February, and March). The primary goals include identifying patterns in sales, understanding consumer behavior, assessing the impact of market competition, and predicting future trends. Through careful examination and interpretation of the data using Excel, we intend to make informed business decisions that can drive growth, optimize operations, and enhance the overall performance of the supermarket company in these cities.
 
 **Step 2 Data description :**
-The data of superstore are 3 different branches for 3 months data it has details of customers like invoice ID, Branch, City, Customer type, Gender, Product details, margin and rating.
+
+The Excel dataset encompasses crucial supermarket operation data, featuring columns like "Branch" for location-based insights, "Customer" for behavior analysis, and "Product Line" for categorizing items. It tracks sales distribution, demographics, pricing, and more, facilitating informed decisions within the supermarket industry. The "Rating" column adds customer feedback, enhancing understanding of satisfaction and product trends. This dataset is invaluable for comprehensive data analysis and strategic decision-making.
 
 **Step 3 Data Analysis :**
-Analysing and gathering keypoints of data and visualizing the data with lucrative graphs.
+
+In the data analysis, focus on uncovering trends, patterns, and insights within the supermarket dataset. Begin by examining sales distribution across branches and cities, identifying top-performing product lines and assessing customer preferences based on gender. Analyze pricing trends using the unit price data and correlate sales with different payment methods. Calculate gross margins to understand profitability and delve into customer ratings to gauge satisfaction levels. Utilize charts, graphs, and statistical measures for a clear visualization of findings. Present actionable insights to optimize operations, marketing strategies, and overall supermarket performance.
 
 **Step 4 Conclusion :**
-Utilize the pivot feature to generate bar, pie, area chart to visualize keyperformance indicator, profit and high margin business.
+
+To effectively utilize the pivot feature in Excel for data analysis and visualization of key performance indicators (KPIs), profit, and high-margin businesses, a structured approach is essential. Begin by ensuring that the data is well-organized in a tabular format, with appropriate columns representing KPIs, profit, and related metrics. Create a pivot table by selecting the data range and accessing the "Pivot Table" tool in the "Insert" tab. Arrange the desired fields into the "Rows", "Columns", and "Values" areas within the pivot table to shape the analysis. Once the pivot table is structured, proceed to visualize the data through various chart types. For KPIs and profit, consider generating bar charts, allowing for a clear comparison and representation of data. Pie charts are effective for showcasing proportionate data, aiding in visualizing segments such as profit distribution. Additionally, area charts are valuable for illustrating trends and patterns, particularly relevant for high-margin businesses. Customize each chart to enhance clarity and interpretability. Analyzing these charts provides valuable insights into the performance of the supermarket, aiding in strategic decision-making and fostering growth in the competitive market landscape.
 
 **3 DATA INSIGHTS** 
 
