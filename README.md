@@ -2,7 +2,9 @@
 
 ## **1 INTRODUCTION**
 
-The Excel file encompasses vital data illustrating the growth of supermarkets in some of the most densely populated cities, namely Yangon, Naypyitaw, and Mandalay. The presence of high market competition underscores the significance of this dataset. It delves into the historical sales of a reputable supermarket company, meticulously chronicling its operations across three distinct branches over a span of three months, namely January, February, and March. The availability of such detailed and organized data facilitates the seamless application of predictive data analytics methods. Armed with this dataset, implementing predictive analytics becomes a straightforward task, offering the potential for valuable foresight into market trends and a competitive edge within the bustling supermarket industry of these cities.
+Excel file contains crucial data on supermarket growth in densely populated cities: Yangon, Naypyidaw, and Mandalay, emphasizing high market competition.
+Detailed historical sales data of a reputable supermarket across three branches over three months (January to March) enables seamless application of predictive analytics.
+Possesses potential for valuable foresight into market trends, providing a competitive edge in the bustling supermarket industry of these cities.
 
 ## **2 SOLUTION STRATERGY** 
 
@@ -22,7 +24,9 @@ In the data analysis, focus on uncovering trends, patterns, and insights within 
 
 **Step 4 Conclusion :**
 
-To effectively utilize the pivot feature in Excel for data analysis and visualization of key performance indicators (KPIs), profit, and high-margin businesses, a structured approach is essential. Begin by ensuring that the data is well-organized in a tabular format, with appropriate columns representing KPIs, profit, and related metrics. Create a pivot table by selecting the data range and accessing the "Pivot Table" tool in the "Insert" tab. Arrange the desired fields into the "Rows", "Columns", and "Values" areas within the pivot table to shape the analysis. Once the pivot table is structured, proceed to visualize the data through various chart types. For KPIs and profit, consider generating bar charts, allowing for a clear comparison and representation of data. Pie charts are effective for showcasing proportionate data, aiding in visualizing segments such as profit distribution. Additionally, area charts are valuable for illustrating trends and patterns, particularly relevant for high-margin businesses. Customize each chart to enhance clarity and interpretability. Analyzing these charts provides valuable insights into the performance of the supermarket, aiding in strategic decision-making and fostering growth in the competitive market landscape.
+* Organize data in a tabular format with relevant columns for KPIs, profit, and metrics.
+* Create a pivot table, arranging fields in "Rows", "Columns", and "Values" for analysis.
+* Visualize data using appropriate chart types, customize for clarity, and analyze for valuable insights into supermarket performance.
 
 ## **3 DATA INSIGHTS** 
 
@@ -73,4 +77,5 @@ On the other hand, females have different shopping preferences. Their top prefer
 
 * **Lack of Sub-Categorization:** The current data lacks sub-categorization within the main categories. For example, "Food and Beverages" can include a wide array of products, such as groceries, beverages, snacks, or specialized dietary items. Without sub-categories, it's challenging to pinpoint which specific products are driving sales within this broad category.
 
+* **Short-Term Dataset:** The dataset focuses on a limited timeframe of three months, specifically covering the months of January, February, and March.
 
