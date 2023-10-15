@@ -32,7 +32,8 @@ In the data analysis, focus on uncovering trends, patterns, and insights within 
 
 ## Glimpse of Dynamic Superstore Dashboard
 
-![Dashboard](https://github.com/Jaydeep1-Chotaliya/Superstore_Dashboard_Using_Excel/assets/129647680/7f7c470b-6420-47e0-8c3c-4d2f6de9e7c8)
+![Untitled video - Made with Clipchamp (2)](https://github.com/Jaydeep1-Chotaliya/Superstore_Dashboard_Using_Excel/assets/129647680/b58b456f-17e0-4ae6-8f26-538006fbb84a)
+
 
 The dashboard shows dynamic sales that tracks key sales metrics over time. The dashboard includes a variety of charts and graphs, such as line charts, bar charts, and pie charts, to visualize the data in different ways.
 
